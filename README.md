@@ -1,4 +1,4 @@
-# Portfolio - [Natalia Helak]
+# Portfolio - Natalia Helak
 
 Welcome to my portfolio! I am passionate about creating web applications and designing user interfaces. Here, you will find my latest projects, which include web applications, responsive websites, and examples of my programming skills.
 
@@ -16,6 +16,6 @@ My projects encompass:
 
 ## Contact
 
-If you'd like to reach out for collaboration, project inquiries, or just to have a conversation, I'm open to communication. You can drop me an email at [nhelak2001@gmail.com] or visit my website: [Your Website]
+If you'd like to reach out for collaboration, project inquiries, or just to have a conversation, I'm open to communication. You can drop me an email at nhelak2001@gmail.com or visit my website: [Your Website]
 
 Feel free to explore my portfolio!
