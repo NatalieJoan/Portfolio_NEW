@@ -16,6 +16,6 @@ My projects encompass:
 
 ## Contact
 
-If you'd like to reach out for collaboration, project inquiries, or just to have a conversation, I'm open to communication. You can drop me an email at nhelak2001@gmail.com or visit my website: [Your Website]
+If you'd like to reach out for collaboration, project inquiries, or just to have a conversation, I'm open to communication. You can drop me an email at nhelak2001@gmail.com or visit [[my website]](https://natalia-helak-portfolio.netlify.app)https://natalia-helak-portfolio.netlify.app
 
 Feel free to explore my portfolio!
